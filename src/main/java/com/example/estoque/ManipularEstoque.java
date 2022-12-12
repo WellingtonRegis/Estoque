@@ -10,6 +10,7 @@ public class ManipularEstoque {
         return checar ;
     }
 
+
     public String verificarProduto(Produto produto){
 
         String nomeDoProduto = produto.getNomeDoProduto();

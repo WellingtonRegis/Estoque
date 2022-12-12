@@ -24,6 +24,7 @@ public class Estoque{
             if (scan != null){
                 scan.close();
             }
+
         }
         return checarEstoque(produto);
 

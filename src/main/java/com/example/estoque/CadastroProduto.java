@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class CadastroProduto  {
 
+
     public String cadastrarProduto(Produto produto) {
         Scanner scan = new Scanner(System.in);
         System.out.println("digite o nome do produto");

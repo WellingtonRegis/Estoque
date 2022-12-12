@@ -3,6 +3,7 @@ package com.example.estoque;
 public class SaidaProduto  {
     private String nomeDoProduto;
 
+
     public Integer saidaEstoque(Produto produto){
         System.out.println("Vefificando venda ");
 
